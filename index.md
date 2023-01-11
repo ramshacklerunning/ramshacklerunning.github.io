@@ -19,7 +19,15 @@ Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 04:09:59 :: 20200924 :: Dan Curts :: <a href="https://www.strava.com/activities/4107685770/overview">Strava</a>
 <br>
+04:15:37 :: 20200920 :: Luke Costley :: <a href="https://www.strava.com/activities/4088257484/overview">Strava</a>
+<br>
+04:17:34 :: 20200929 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/4129639680/overview">Strava</a>
+<br>
 04:17:44 :: 20200926 :: Ryan Kempson :: <a href="https://www.strava.com/activities/4116161003/overview">Strava</a>
+<br>
+04:27:38 :: 20200929 :: Steven Lange :: <a href="https://www.strava.com/activities/4129598270/overview">Strava</a>
+<br>
+04:40:53 :: 20200929 :: Frankie DiSomma :: <a href="https://www.strava.com/activities/4129598270/overview">Strava</a>
 <br>
 04:49:47 :: 20200716 :: Pier Pennoyer :: <a href="https://www.strava.com/activities/3771892883/overview">Strava</a>
 <br>
