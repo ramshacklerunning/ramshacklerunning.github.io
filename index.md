@@ -1,10 +1,16 @@
 <b>THE WHITE MOUNTAINS TRIFECTA</b>
 <br>
 < 24:00 cumulative on the three most iconic routes in New Hampshire's White Mountains
+<br>
+
+19:13:18 :: Jack Kuenzle
+<br>
+19:34:42 :: Jordan Fields
+<br>
 
 <b><a href="https://fastestknowntime.com/route/presidential-traverse-nh">Presidential Traverse</a></b>
 <br>
-Times < 5:00, SOBO via Valley Way, snow-free
+Times < 4:30, SOBO via Valley Way, snow-free
 <br>
 
 03:38:44 (1) :: 20210720 :: Jack Kuenzle :: <a href="https://www.strava.com/activities/5658644728/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jack-kuenzle-presidential-traverse-nh-2021-07-20">FKT</a>
@@ -14,6 +20,8 @@ Times < 5:00, SOBO via Valley Way, snow-free
 04:02:19 :: 20200928 :: Aaron Newell :: <a href="https://www.strava.com/activities/4125023592/overview">Strava</a>
 <br>
 04:04:30 :: 20180914 :: Lee Berube (pt1) :: Strava :: <a href="https://fastestknowntime.com/fkt/lee-berube-presidential-traverse-nh-2018-09-14">FKT</a>
+<br>
+04:06:34 :: 20221004 :: Ryan Atkins :: <a href="https://www.strava.com/activities/7911424367/overview">Strava</a>
 <br>
 04:08:41 :: 20210717 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/5642858338/overview">Strava</a>
 <br>
@@ -27,12 +35,13 @@ Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 04:17:44 :: 20200926 :: Ryan Kempson :: <a href="https://www.strava.com/activities/4116161003/overview">Strava</a>
 <br>
+04:22:17 :: 20200901 :: Ryan Kempson :: <a href="https://www.strava.com/activities/3996822195/overview">Strava</a>
+<br>
 04:27:38 :: 20200929 :: Steven Lange :: <a href="https://www.strava.com/activities/4129598270/overview">Strava</a>
 <br>
-04:40:53 :: 20200929 :: Frankie DiSomma :: <a href="https://www.strava.com/activities/4129598270/overview">Strava</a>
+04:29:57 :: 20220702 :: Brian Martel :: <a href="https://www.strava.com/activities/7405748387/overview">Strava</a>
 <br>
-04:49:47 :: 20200716 :: Pier Pennoyer :: <a href="https://www.strava.com/activities/3771892883/overview">Strava</a>
-<br>
+
 
 
 
