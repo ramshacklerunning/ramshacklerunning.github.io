@@ -4,16 +4,18 @@
 
 <b><a href="https://fastestknowntime.com/route/presidential-traverse-nh">Presidential Traverse</a></b>
 <br>
-Times (M) < 5:00
+Times < 5:00
 
 <b><a href="https://fastestknowntime.com/route/pemigewasset-loop-nh">Pemigewasset Loop</a></b>
 <br>
-Times (M) < 6:30
+Times < 6:30
 
 <b><a href="https://fastestknowntime.com/route/white-mountains-hut-traverse-nh">Hut Traverse</a></b>
 <br>
-Times (M) < 12:30
-
+Times < 12:30
+<br>
+<br>
+<br>
 
 <b>THE WHITE MOUNTAINS 100</b>
 <br>
@@ -22,3 +24,10 @@ A 100 mile traverse through the White Mountains via the Appalachian Trail
 <b><a href="https://fastestknowntime.com/route/white-mountains-100-nh">White Mountains 100</a></b>
 <br>
 All Times Recognized
+<br>
+
+26:09:25 :: 20220616 :: Jack Kuenzle :: Strava :: FKT
+<br>
+34:09:02 :: 20221001 :: Larsen Ojala :: <a href="https://www.strava.com/activities/7897111589/overview">Strava</a>
+<br>
+39:21:03 :: 20200823 :: Kristina Folcik :: Strava :: FKT
