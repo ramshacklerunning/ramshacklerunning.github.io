@@ -78,9 +78,17 @@ Times < 6:30, either direction
 <br>
 06:08:48 :: 20220730 :: Eric LiPuma :: <a href="https://www.strava.com/activities/7554535605/overview">Strava</a>
 <br>
+06:09:03 :: 20220716 :: Brent Underkoffler :: <a href="https://www.strava.com/activities/7479795185/overview">Strava</a>
+<br>
 06:10:07 :: 20150808 :: Ben Nephew :: <a href="https://www.strava.com/activities/364509919/overview">Strava :: <a href="https://fastestknowntime.com/fkt/ben-nephew-pemigewasset-loop-nh-2015-08-08">FKT</a>
 <br>
+06:14:34 :: 2015XXXX :: Adam Wilcox :: <a href="http://adamiata.blogspot.com/2015/06/pemi-loop-xv-beast-mode.html">Blog</a>
+<br>
+06:17:42 :: 20180728 :: Kanoa King :: <a href="https://www.strava.com/activities/1733997182/overview">Strava</a>
+<br>
 06:22:03 :: 20180711 :: Liam Cregan :: <a href="https://www.strava.com/activities/1696101551/overview">Strava</a>
+<br>
+06:22:32 :: 20200801 :: Luke Costley :: <a href="https://www.strava.com/activities/3849472145/overview">Strava</a>
 <br>
 06:27:48 :: 20110911 :: Ben Nephew :: <a href="https://connect.garmin.com/modern/activity/113691035?zebratwo=CJ">Garmin</a> :: <a href="https://fastestknowntime.com/fkt/ben-nephew-pemigewasset-loop-nh-2011-09-11">FKT</a>
 <br>
