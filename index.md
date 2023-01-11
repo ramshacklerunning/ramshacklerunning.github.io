@@ -15,6 +15,8 @@ Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 04:04:30 :: 20180914 :: Lee Berube (pt1) :: Strava :: <a href="https://fastestknowntime.com/fkt/lee-berube-presidential-traverse-nh-2018-09-14">FKT</a>
 <br>
+04:08:41 :: 20210717 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/5642858338/overview">Strava</a>
+<br>
 04:09:35 :: 20180820 :: Ryan Atkins (pt2) :: <a href="https://www.strava.com/activities/1786216792/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/ryan-atkins-presidential-traverse-nh-2018-08-20">FKT</a>
 <br>
 04:09:59 :: 20200924 :: Dan Curts :: <a href="https://www.strava.com/activities/4107685770/overview">Strava</a>
