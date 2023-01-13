@@ -69,7 +69,6 @@ Times < 5:00, SOBO via Valley Way, snow-free
 04:58:01 :: 20190803 :: Lydia Gill :: <a href="https://www.strava.com/activities/2587853534/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/lydia-gill-presidential-traverse-nh-2019-08-03">FKT</a>
 <br>
 04:59:08 :: 20200921 :: Hunter Cote :: <a href="https://www.strava.com/activities/4093851221/overview">Strava</a>
-<br>
 
 <br>
 pt1: didn't fully tag Jefferson summit, used Cog Railway to summit Washington
@@ -169,6 +168,14 @@ Times < 14:00
 12:16:24 :: 20220622 :: Jake Acito :: <a href="https://www.strava.com/activities/7353718857/overview">Strava</a>
 <br>
 12:18:28 :: 20220917 :: Ben Judson :: <a href="https://www.strava.com/activities/7825135791/overview">Strava</a>
+<br>
+12:23:06 :: 20190725 :: Katie Schide :: <a href="https://www.strava.com/activities/2563633359/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/katie-schide-white-mountains-hut-traverse-nh-2019-07-25">FKT</a>
+<br>
+12:38:00 :: 20110721 :: George Heinrichs :: <a href="https://fastestknowntime.com/fkt/george-heinrichs-white-mountains-hut-traverse-nh-2011-07-21">FKT</a>
+<br>
+12:49:33 :: 20150925 :: Peter Howe :: <a href="https://fastestknowntime.com/fkt/peter-howe-white-mountains-hut-traverse-nh-2015-09-25">FKT</a>
+<br>
+13:08:00 :: 19930501 :: Matthew Cull :: <a href="https://fastestknowntime.com/fkt/mathew-cull-white-mountains-hut-traverse-nh-1993-05-01">FKT</a>
 <br>
 
 <br>
