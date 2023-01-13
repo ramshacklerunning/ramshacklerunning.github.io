@@ -45,13 +45,28 @@ Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 04:33:39 :: 20210903 :: Lindsay Webster :: <a href="https://fastestknowntime.com/fkt/lindsay-webster-presidential-traverse-nh-2021-09-03">Strava</a> :: <a href="https://www.strava.com/activities/5900748172/overview">FKT</a>
 <br>
+04:34:06 :: 20220917 :: Brent Underkoffler :: <a href="https://www.strava.com/activities/7823874257/overview">Strava</a>
+<br>
 04:35:47 :: 20200927 :: Jess Marion :: <a href="https://www.strava.com/activities/4121153385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jess-marion-presidential-traverse-nh-2020-09-27">FKT</a>
 <br>
 04:37:34 :: 20200920 :: Britta Clark (pt3) :: <a href="https://www.strava.com/activities/4089067385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/britta-clark-presidential-traverse-nh-2020-09-20">FKT</a>
 <br>
+04:41:03 :: 20200929 :: Frankie DiSomma :: <a href="https://www.strava.com/activities/4129672208/overview">Strava</a>
+<br>
+04:46:15 :: 20200919 :: AJ Beers :: <a href="https://www.strava.com/activities/4083349013/overview">Strava</a>
+<br>
 04:48:38 :: 20200913 :: Jess Marion :: <a href="https://www.strava.com/activities/4055379614/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jess-marion-presidential-traverse-nh-2020-09-13">FKT</a>
 <br>
+04:49:47 :: 20200716 :: Pier Pennoyer :: <a href="https://www.strava.com/activities/3771892883/overview">Strava</a>
+<br>
+04:57:24 :: 20200820 :: Dan Pfistner :: <a href="https://www.strava.com/activities/3941089782/overview">Strava</a>
+<br>
+04:57:47 :: 20210919 :: Joe Smith :: <a href="https://www.strava.com/activities/5986938304/overview">Strava</a>
+<br>
 04:58:01 :: 20190803 :: Lydia Gill :: <a href="https://www.strava.com/activities/2587853534/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/lydia-gill-presidential-traverse-nh-2019-08-03">FKT</a>
+<br>
+04:59:08 :: 20200921 :: Hunter Cote :: <a href="https://www.strava.com/activities/4093851221/overview">Strava</a>
+<br>
 
 <br>
 pt1: didn't fully tag Jefferson summit, used Cog Railway to summit Washington
@@ -126,3 +141,6 @@ All Times Recognized
 34:09:02 :: 20221001 :: Larsen Ojala :: <a href="https://www.strava.com/activities/7897111589/overview">Strava</a>
 <br>
 39:21:03 :: 20200823 :: Kristina Folcik :: <a href="https://www.strava.com/activities/3957212271/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/kristina-folcik-appalachian-trail-white-mountains-100-nh-2020-08-23">FKT</a>
+<br>
+  
+For submissions/corrections/inquiries: Ryan :: ramshacklerunning@gmail.com
