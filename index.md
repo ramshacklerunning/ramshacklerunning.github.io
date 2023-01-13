@@ -109,7 +109,7 @@ Times < 7:00, either direction
 <br>
 06:10:07 :: 20150808 :: Ben Nephew :: <a href="https://www.strava.com/activities/364509919/overview">Strava :: <a href="https://fastestknowntime.com/fkt/ben-nephew-pemigewasset-loop-nh-2015-08-08">FKT</a>
 <br>
-06:14:34 :: 2015XXXX :: Adam Wilcox :: <a href="http://adamiata.blogspot.com/2015/06/pemi-loop-xv-beast-mode.html">Blog</a>
+06:14:34 :: 20150614 :: Adam Wilcox :: <a href="http://adamiata.blogspot.com/2015/06/pemi-loop-xv-beast-mode.html">Blog</a>
 <br>
 06:17:42 :: 20180728 :: Kanoa King :: <a href="https://www.strava.com/activities/1733997182/overview">Strava</a>
 <br>
@@ -119,6 +119,34 @@ Times < 7:00, either direction
 <br>
 06:27:48 :: 20110911 :: Ben Nephew :: <a href="https://connect.garmin.com/modern/activity/113691035?zebratwo=CJ">Garmin</a> :: <a href="https://fastestknowntime.com/fkt/ben-nephew-pemigewasset-loop-nh-2011-09-11">FKT</a>
 <br>
+06:31:49 :: 20200821 :: Britta Clark :: <a href="https://www.strava.com/activities/3946761870/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/britta-clark-pemigewasset-loop-nh-2020-08-21">FKT</a>
+<br>
+06:34:23 :: 20210919 :: Clark Plummer :: <a href="https://www.strava.com/activities/5987187842/overview">Strava</a>
+<br>
+06:38:21 :: 20140608 :: Adam Wilcox :: <a href="http://adamiata.blogspot.com/2014/06/so-close-i-can-smell-it-pemi-loop-fkt.html">Blog</a>
+<br>
+06:42:37 :: 20190830 :: Chris Dailey :: <a href="https://www.strava.com/activities/2665228679/overview">Strava</a>
+<br>
+06:42:59 :: 20160625 :: Phil Brunet :: <a href="https://www.strava.com/activities/620975991/overview">Strava</a>
+<br>
+06:43:18 :: 20120528 :: Adam Wilcox :: <a href="http://adamiata.blogspot.com/2012/05/pemigewasset-loop-fkt-attempt-5292012.html">Blog</a>
+<br>
+06:46:10 :: 20110619 :: Adam Wilcox :: <a href="https://fastestknowntime.com/route/pemigewasset-loop-nh">FKT</a>
+<br>
+06:47:04 :: 20100907 :: Jan Wellford :: <a href="https://www.adkhighpeaks.com/forums/forum/hiking/other-places/12816-pemi-loop-fkt?t=12466">Forum</a> :: <a href="https://fastestknowntime.com/fkt/jan-wellford-pemigewasset-loop-nh-2010-09-07">FKT</a>
+<br>
+06:51:26 :: 20180616 :: Daniel Kelly :: <a href="https://www.strava.com/activities/1642945044/overview">Strava</a>
+<br>
+06:51:38 :: 20220630 :: Michael Conley :: <a href="https://www.strava.com/activities/7394100512/overview">Strava</a>
+<br>
+06:51:51 :: 20150827 :: Andrew Drummond :: <a href="https://www.strava.com/activities/378808840/overview">Strava</a>
+<br>
+06:56:41 :: 20190725 :: Nick Aguila :: <a href="https://www.strava.com/activities/2563102655/overview">Strava</a>
+<br>
+06:56:53 :: 20201006 :: Chris Saulnier :: <a href="https://www.strava.com/activities/4160186575/overview">Strava</a>
+<br>
+06:59:37 :: 20190725 :: Jess Marion :: <a href="https://www.strava.com/activities/2564986930/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jess-marion-pemigewasset-loop-nh-2019-07-25">FKT</a>
+
 
 <b><a href="https://fastestknowntime.com/route/white-mountains-hut-traverse-nh">Hut Traverse</a></b>
 <br>
