@@ -197,4 +197,4 @@ All Times Recognized
 39:21:03 :: 20200823 :: Kristina Folcik :: <a href="https://www.strava.com/activities/3957212271/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/kristina-folcik-appalachian-trail-white-mountains-100-nh-2020-08-23">FKT</a>
 <br>
   
-For submissions/corrections/inquiries: Ryan :: ramshacklerunning@gmail.com
+For submissions/corrections/inquiries: Ryan :: @ramshacklerunning (IG)
