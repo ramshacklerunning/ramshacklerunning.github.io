@@ -12,41 +12,53 @@
 
 <b><a href="https://fastestknowntime.com/route/presidential-traverse-nh">Presidential Traverse</a></b>
 <br>
-Times < 4:30, SOBO via Valley Way, snow-free
+Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 
-03:38:44 (1) :: 20210720 :: Jack Kuenzle :: <a href="https://www.strava.com/activities/5658644728/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jack-kuenzle-presidential-traverse-nh-2021-07-20">FKT</a>
+03:38:44 :: 20210720 :: Jack Kuenzle :: <a href="https://www.strava.com/activities/5658644728/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jack-kuenzle-presidential-traverse-nh-2021-07-20">FKT</a>
 <br>
-03:42:38 (2) :: 20190906 :: Jordan Fields :: <a href="https://www.strava.com/activities/2684874328/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jordan-fields-presidential-traverse-nh-2019-09-06">FKT</a>
+03:42:38 :: 20190906 :: Jordan Fields :: <a href="https://www.strava.com/activities/2684874328/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jordan-fields-presidential-traverse-nh-2019-09-06">FKT</a>
 <br>
-04:02:19 (3) :: 20200928 :: Aaron Newell :: <a href="https://www.strava.com/activities/4125023592/overview">Strava</a>
+04:02:19 :: 20200928 :: Aaron Newell :: <a href="https://www.strava.com/activities/4125023592/overview">Strava</a>
 <br>
-04:04:30 (4) :: 20180914 :: Lee Berube (pt1) :: Strava :: <a href="https://fastestknowntime.com/fkt/lee-berube-presidential-traverse-nh-2018-09-14">FKT</a>
+04:04:30 :: 20180914 :: Lee Berube (pt1) :: Strava :: <a href="https://fastestknowntime.com/fkt/lee-berube-presidential-traverse-nh-2018-09-14">FKT</a>
 <br>
-04:06:34 (5) :: 20221004 :: Ryan Atkins :: <a href="https://www.strava.com/activities/7911424367/overview">Strava</a>
+04:06:34 :: 20221004 :: Ryan Atkins :: <a href="https://www.strava.com/activities/7911424367/overview">Strava</a>
 <br>
-04:08:41 (6) :: 20210717 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/5642858338/overview">Strava</a>
+04:08:41 :: 20210717 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/5642858338/overview">Strava</a>
 <br>
-04:09:35 (7) :: 20180820 :: Ryan Atkins (pt2) :: <a href="https://www.strava.com/activities/1786216792/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/ryan-atkins-presidential-traverse-nh-2018-08-20">FKT</a>
+04:09:35 :: 20180820 :: Ryan Atkins (pt2) :: <a href="https://www.strava.com/activities/1786216792/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/ryan-atkins-presidential-traverse-nh-2018-08-20">FKT</a>
 <br>
-04:09:59 (8) :: 20200924 :: Dan Curts :: <a href="https://www.strava.com/activities/4107685770/overview">Strava</a>
+04:09:59 :: 20200924 :: Dan Curts :: <a href="https://www.strava.com/activities/4107685770/overview">Strava</a>
 <br>
-04:15:37 (9) :: 20200920 :: Luke Costley :: <a href="https://www.strava.com/activities/4088257484/overview">Strava</a>
+04:15:37 :: 20200920 :: Luke Costley :: <a href="https://www.strava.com/activities/4088257484/overview">Strava</a>
 <br>
-04:17:34 (10) :: 20200929 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/4129639680/overview">Strava</a>
+04:17:34 :: 20200929 :: Ja Shua Ried :: <a href="https://www.strava.com/activities/4129639680/overview">Strava</a>
 <br>
-04:17:44 (11) :: 20200926 :: Ryan Kempson :: <a href="https://www.strava.com/activities/4116161003/overview">Strava</a>
+04:17:44 :: 20200926 :: Ryan Kempson :: <a href="https://www.strava.com/activities/4116161003/overview">Strava</a>
 <br>
-04:22:17 (12) :: 20200901 :: Ryan Kempson :: <a href="https://www.strava.com/activities/3996822195/overview">Strava</a>
+04:22:17 :: 20200901 :: Ryan Kempson :: <a href="https://www.strava.com/activities/3996822195/overview">Strava</a>
 <br>
-04:27:38 (13) :: 20200929 :: Steven Lange :: <a href="https://www.strava.com/activities/4129598270/overview">Strava</a>
+04:27:38 :: 20200929 :: Steven Lange :: <a href="https://www.strava.com/activities/4129598270/overview">Strava</a>
 <br>
-04:29:57 (14) :: 20220702 :: Brian Martel :: <a href="https://www.strava.com/activities/7405748387/overview">Strava</a>
+04:29:57 :: 20220702 :: Brian Martel :: <a href="https://www.strava.com/activities/7405748387/overview">Strava</a>
 <br>
+04:33:39 :: 20210903 :: Lindsay Webster :: <a href="https://fastestknowntime.com/fkt/lindsay-webster-presidential-traverse-nh-2021-09-03">Strava</a> :: <a href="https://www.strava.com/activities/5900748172/overview">FKT</a>
 <br>
-pt1: didn't tag Jefferson summit, used Cog Railway to summit Washington
+04:35:47 :: 20200927 :: Jess Marion :: <a href="https://www.strava.com/activities/4121153385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jess-marion-presidential-traverse-nh-2020-09-27">FKT</a>
 <br>
-pt2: didn't tag Jefferson summit
+04:37:34 :: 20200920 :: Britta Clark (pt3) :: <a href="https://www.strava.com/activities/4089067385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/britta-clark-presidential-traverse-nh-2020-09-20">FKT</a>
+<br>
+04:48:38 :: 20200913 :: Jess Marion :: <a href="https://www.strava.com/activities/4055379614/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jess-marion-presidential-traverse-nh-2020-09-13">FKT</a>
+<br>
+04:58:01 :: 20190803 :: Lydia Gill :: <a href="https://www.strava.com/activities/2587853534/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/lydia-gill-presidential-traverse-nh-2019-08-03">FKT</a>
+
+<br>
+pt1: didn't fully tag Jefferson summit, used Cog Railway to summit Washington
+<br>
+pt2: didn't fully tag Jefferson summit
+<br>
+pt3: didn't fully tag Pierce summit
 
 <br>
 <br>
@@ -55,10 +67,10 @@ pt2: didn't tag Jefferson summit
 
 <b><a href="https://fastestknowntime.com/route/pemigewasset-loop-nh">Pemigewasset Loop</a></b>
 <br>
-Times < 6:30, either direction
+Times < 7:00, either direction
 <br>
 
-05:27:20 (1) :: 20200801 :: Jordan Fields :: <a href="https://www.strava.com/activities/3849264245/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jordan-fields-pemigewasset-loop-nh-2020-08-01">FKT</a>
+05:27:20 :: 20200801 :: Jordan Fields :: <a href="https://www.strava.com/activities/3849264245/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jordan-fields-pemigewasset-loop-nh-2020-08-01">FKT</a>
 <br>
 05:32:34 :: 20220727 :: Jake Acito :: <a href="https://www.strava.com/activities/7538499852">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jake-acito-pemigewasset-loop-nh-2022-07-27">FKT</a>
 <br>
@@ -95,7 +107,7 @@ Times < 6:30, either direction
 
 <b><a href="https://fastestknowntime.com/route/white-mountains-hut-traverse-nh">Hut Traverse</a></b>
 <br>
-Times < 12:30
+Times < 14:00
 <br>
 <br>
 <br>
