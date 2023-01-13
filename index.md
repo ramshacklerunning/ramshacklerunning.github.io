@@ -7,7 +7,10 @@
 <br>
 19:34:42 :: Jordan Fields
 <br>
+22:XX:XX :: Jake Acito (wmt1)
 <br>
+
+wmt1: reported Presi time ~5:00 but can't find data
 <br>
 
 <b><a href="https://fastestknowntime.com/route/presidential-traverse-nh">Presidential Traverse</a></b>
@@ -103,6 +106,8 @@ Times < 7:00, either direction
 <br>
 06:06:53 :: 20170912 :: Ben Thompson :: <a href="https://www.strava.com/activities/1181046136">Strava</a> :: <a href="https://fastestknowntime.com/fkt/ben-thompson-pemigewasset-loop-nh-2017-09-12">FKT</a>
 <br>
+06:07:09 :: 20220713 :: Jake Acito :: <a href="https://www.strava.com/activities/7464150302/overview">Strava</a>
+<br>
 06:08:48 :: 20220730 :: Eric LiPuma :: <a href="https://www.strava.com/activities/7554535605/overview">Strava</a>
 <br>
 06:09:03 :: 20220716 :: Brent Underkoffler :: <a href="https://www.strava.com/activities/7479795185/overview">Strava</a>
@@ -152,6 +157,20 @@ Times < 7:00, either direction
 <br>
 Times < 14:00
 <br>
+  
+09:58:03 :: 20210901 :: Jack Kuenzle :: <a href="https://www.strava.com/activities/5890764530/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jack-kuenzle-white-mountains-hut-traverse-nh-2021-09-01">FKT</a>
+<br>
+10:24:44 :: 20200920 :: Jordan Fields :: <a href="https://www.strava.com/activities/4090033717/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jordan-fields-white-mountains-hut-traverse-nh-2020-09-20">FKT</a>
+<br>
+10:57:54 :: 20180817 :: Jeff Colt :: <a href="https://www.strava.com/activities/1779471843/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jeffrey-colt-white-mountains-hut-traverse-nh-2018-08-17">FKT</a>
+<br>
+11:46:14 :: 20180719 :: Liam Davis :: <a href="https://www.strava.com/activities/1715398200">Strava</a> :: <a href="https://fastestknowntime.com/fkt/liam-davis-white-mountains-hut-traverse-nh-2018-07-19">FKT</a>
+<br>
+12:16:24 :: 20220622 :: Jake Acito :: <a href="https://www.strava.com/activities/7353718857/overview">Strava</a>
+<br>
+12:18:28 :: 20220917 :: Ben Judson :: <a href="https://www.strava.com/activities/7825135791/overview">Strava</a>
+<br>
+
 <br>
 <br>
 
