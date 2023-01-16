@@ -70,17 +70,11 @@ Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 04:59:08 :: 20200921 :: Hunter Cote :: <a href="https://www.strava.com/activities/4093851221/overview">Strava</a>
 
-<br>
 pt1: didn't fully tag Jefferson summit, used Cog Railway to summit Washington
 <br>
 pt2: didn't fully tag Jefferson summit
 <br>
 pt3: didn't fully tag Pierce summit
-
-<br>
-<br>
-
-
 
 <b><a href="https://fastestknowntime.com/route/pemigewasset-loop-nh">Pemigewasset Loop</a></b>
 <br>
@@ -177,10 +171,10 @@ Times < 14:00
 <br>
 13:08:00 :: 19930501 :: Matthew Cull :: <a href="https://fastestknowntime.com/fkt/mathew-cull-white-mountains-hut-traverse-nh-1993-05-01">FKT</a>
 <br>
-
+13:48:38 :: 20210815 :: Brent Underkoffler :: <a href="https://www.strava.com/activities/5799787403/overview">Strava</a>
 <br>
-<br>
 
+ 
 <b>THE WHITE MOUNTAINS 100</b>
 <br>
 A 100 mile traverse through the White Mountains via the Appalachian Trail
@@ -197,4 +191,4 @@ All Times Recognized
 39:21:03 :: 20200823 :: Kristina Folcik :: <a href="https://www.strava.com/activities/3957212271/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/kristina-folcik-appalachian-trail-white-mountains-100-nh-2020-08-23">FKT</a>
 <br>
   
-For submissions/corrections/inquiries: Ryan :: @ramshacklerunning (IG)
+For submissions/corrections/inquiries: Ryan :: ryan.williams.vt@gmail.com :: @ramshacklerunning (IG)
