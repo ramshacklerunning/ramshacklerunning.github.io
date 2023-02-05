@@ -1,4 +1,4 @@
-<b>THE WHITE MOUNTAINS TRIFECTA</b>
+<b>THE WHITE MOUNTAINS TRIPLE CROWN</b>
 <br>
 < 24:00 cumulative on the three most iconic routes in New Hampshire's White Mountains
 <br>
