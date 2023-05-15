@@ -163,7 +163,11 @@ Times < 14:00
 <br>
 12:18:28 :: 20220917 :: Ben Judson :: <a href="https://www.strava.com/activities/7825135791/overview">Strava</a>
 <br>
+12:22:38 :: 20180924 :: Andrew Drummond :: <a href="https://www.strava.com/activities/1863903038/overview">Strava</a>
+<br>
 12:23:06 :: 20190725 :: Katie Schide :: <a href="https://www.strava.com/activities/2563633359/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/katie-schide-white-mountains-hut-traverse-nh-2019-07-25">FKT</a>
+<br>
+12:23:08 :: 20190725 :: Germain Graingier :: <a href="https://www.strava.com/activities/2563566914"> Strava</a>
 <br>
 12:38:00 :: 20110721 :: George Heinrichs :: <a href="https://fastestknowntime.com/fkt/george-heinrichs-white-mountains-hut-traverse-nh-2011-07-21">FKT</a>
 <br>
