@@ -52,6 +52,8 @@ Times < 5:00, SOBO via Valley Way, snow-free
 <br>
 04:35:47 :: 20200927 :: Jess Marion :: <a href="https://www.strava.com/activities/4121153385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jess-marion-presidential-traverse-nh-2020-09-27">FKT</a>
 <br>
+04:36:01 :: 20210903 :: Ryan Atkins :: <a href ="https://www.strava.com/activities/9131727538">Strava</a>
+<br>
 04:37:34 :: 20200920 :: Britta Clark (pt3) :: <a href="https://www.strava.com/activities/4089067385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/britta-clark-presidential-traverse-nh-2020-09-20">FKT</a>
 <br>
 04:41:03 :: 20200929 :: Frankie DiSomma :: <a href="https://www.strava.com/activities/4129672208/overview">Strava</a>
