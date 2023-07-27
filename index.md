@@ -71,6 +71,8 @@ Times < 5:00, SOBO via Valley Way, snow-free
 04:58:01 :: 20190803 :: Lydia Gill :: <a href="https://www.strava.com/activities/2587853534/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/lydia-gill-presidential-traverse-nh-2019-08-03">FKT</a>
 <br>
 04:59:08 :: 20200921 :: Hunter Cote :: <a href="https://www.strava.com/activities/4093851221/overview">Strava</a>
+<br>
+04:59:43 :: 20230723 :: Ryan Williams :: <a href="https://www.strava.com/activities/9508373122/overview">Strava</a>
 
 pt1: didn't fully tag Jefferson summit, used Cog Railway to summit Washington
 <br>
