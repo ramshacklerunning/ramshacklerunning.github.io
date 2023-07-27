@@ -16,6 +16,7 @@ wmt1: reported Presi time ~5:00 but can't find data
 <b><a href="https://fastestknowntime.com/route/presidential-traverse-nh">Presidential Traverse</a></b>
 <br>
 Times < 5:00, SOBO via Valley Way, snow-free
+NOTE: There are a number of other fast times < 5:00 starting from Dolly Copp.
 <br>
 
 03:38:44 :: 20210720 :: Jack Kuenzle :: <a href="https://www.strava.com/activities/5658644728/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/jack-kuenzle-presidential-traverse-nh-2021-07-20">FKT</a>
