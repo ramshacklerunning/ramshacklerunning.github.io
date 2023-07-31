@@ -58,9 +58,9 @@ NOTE: There are a number of other fast times < 5:00 starting from Dolly Copp.
 <br>
 04:37:34 :: 20200920 :: Britta Clark (pt3) :: <a href="https://www.strava.com/activities/4089067385/overview">Strava</a> :: <a href="https://fastestknowntime.com/fkt/britta-clark-presidential-traverse-nh-2020-09-20">FKT</a>
 <br>
-04:41:03 :: 20200929 :: Frankie DiSomma :: <a href="https://www.strava.com/activities/4129672208/overview">Strava</a>
+04:40:42 :: 20230730 :: Jon McInerney :: <a href="https://www.strava.com/activities/9551246708/overview">Strava</a>
 <br>
-04:41:37 :: 20230730 :: Jon McInerney :: <a href="https://www.strava.com/activities/9551246708/overview">Strava</a>
+04:41:03 :: 20200929 :: Frankie DiSomma :: <a href="https://www.strava.com/activities/4129672208/overview">Strava</a>
 <br>
 04:46:15 :: 20200919 :: AJ Beers :: <a href="https://www.strava.com/activities/4083349013/overview">Strava</a>
 <br>
