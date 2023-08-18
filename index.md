@@ -48,6 +48,8 @@ NOTE: There are a number of other fast times < 5:00 starting from Dolly Copp.
 <br>
 04:29:57 :: 20220702 :: Brian Martel :: <a href="https://www.strava.com/activities/7405748387/overview">Strava</a>
 <br>
+04:32:55 :: 20230812 :: Brent Underkoffler :: <a href="https://www.strava.com/activities/9634483388/overview">Strava</a>
+<br>
 04:33:39 :: 20210903 :: Lindsay Webster :: <a href="https://fastestknowntime.com/fkt/lindsay-webster-presidential-traverse-nh-2021-09-03">Strava</a> :: <a href="https://www.strava.com/activities/5900748172/overview">FKT</a>
 <br>
 04:34:06 :: 20220917 :: Brent Underkoffler :: <a href="https://www.strava.com/activities/7823874257/overview">Strava</a>
